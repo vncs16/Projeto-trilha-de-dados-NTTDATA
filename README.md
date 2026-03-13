@@ -40,9 +40,9 @@ Para facilitar a reprodutibilidade, o projeto está organizado em *Jupyter Noteb
  ┃  ┣ 📜 acidentes_transito_limpo.csv
  ┃  ┣ 📜 obitos_gerais_bh_2021.csv
  ┃  ┗ 📜 populacao_bh_utf8.csv
- ┣ 📓 01_limpeza_e_validacao.ipynb    # Tratamento de nulos, tipagem e Great Expectations
- ┣ 📓 02_visualizacao.ipynb           # Geração de gráficos e painéis analíticos
- ┗ 📓 03_banco_de_dados_sql.ipynb     # Criação do BD e Consultas Relacionais
+ ┣ 📓 validacao.ipynb    # Tratamento de nulos, tipagem e Great Expectations
+ ┣ 📓 visualizacao.ipynb           # Geração de gráficos e painéis analíticos
+ ┗ 📓 banco_de_dados_sql.ipynb     # Criação do BD e Consultas Relacionais
 
 ## 📊 Principais Insights
 * **A Métrica de Risco Real:** A padronização da taxa de acidentes por 100 mil habitantes permitiu dimensionar o perigo viário de forma comparável a padrões internacionais, fugindo da distorção de números absolutos.
