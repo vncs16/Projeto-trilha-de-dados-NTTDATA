@@ -30,7 +30,7 @@ Para garantir a precisão da análise, foram integradas três bases de dados dis
 - **Matplotlib:** Criação de visualizações de dados e *Storytelling*.
 
 ## 📂 Estrutura do Repositório
-Para facilitar a reprodutibilidade, o projeto está organizado em *Jupyter Notebooks* focados em cada etapa do pipeline de dados, separando claramente os dados brutos (Raw) dos dados processados (Clean):
+Para facilitar a reprodutibilidade, o projeto está organizado em *Jupyter Notebooks* focados em cada etapa do pipeline de dados:
 
 📦 analise-transito-bh
  ┣ 📂 dados
